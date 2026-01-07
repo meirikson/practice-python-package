@@ -1,30 +1,30 @@
-# Welcome to practice-python-package
+# Welcome to pyospackage_meirikson
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/practice-python-package.svg)](https://pypi.org/project/practice-python-package/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/practice-python-package.svg)](https://pypi.org/project/practice-python-package/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_meirikson.svg)](https://pypi.org/project/pyospackage_meirikson/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_meirikson.svg)](https://pypi.org/project/pyospackage_meirikson/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-practice-python-package is a project that (describe what it does here).
+pyospackage_meirikson is a project that (describe what it does here).
 
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install practice-python-package
+$ pip install pyospackage_meirikson
 ```
 
 TODO: Add a brief example of how to use the package to this section
 
-To use practice-python-package in your code:
+To use pyospackage_meirikson in your code:
 
 ```python
->>> import practice-python-package
->>> practice-python-package.hello_world()
+>>> import pyospackage_meirikson
+>>> pyospackage_meirikson.hello_world()
 ```
 
 ## Copyright
