@@ -36,11 +36,11 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/meirikson/practice-python-package"
-"Source Code" = "https://github.com/meirikson/practice-python-package"
-"Bug Tracker" = "https://github.com/meirikson/practice-python-package/issues"
-Documentation = "https://github.com/meirikson/practice-python-package/blob/main/README.md"
-Download = "https://pypi.org/project/practice-python-package/#files"
+Homepage = "https://github.com/meirikson/pyospackage_meirikson"
+"Source Code" = "https://github.com/meirikson/pyospackage_meirikson"
+"Bug Tracker" = "https://github.com/meirikson/pyospackage_meirikson/issues"
+Documentation = "https://github.com/meirikson/pyospackage_meirikson/blob/main/README.md"
+Download = "https://pypi.org/project/pyospackage_meirikson/#files"
 
 [project.optional-dependencies]
 # The groups below should be in the [development-groups] table
